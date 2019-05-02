@@ -1,0 +1,27 @@
+{
+  "name": "hacknplanapi",
+  "version": "1.0.0",
+  "description": "Hack n Plan API for NodeJS projects",
+  "main": "index.js",
+  "engine": "10",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodingKitsune/hacknplanapi.git"
+  },
+  "keywords": [
+    "HackNPlan",
+    "project",
+    "management",
+    "game",
+    "api"
+  ],
+  "author": "CodingKitsune",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/CodingKitsune/hacknplanapi/issues"
+  },
+  "homepage": "https://github.com/CodingKitsune/hacknplanapi#readme"
+}
